@@ -21,6 +21,8 @@ body {
 
 Available weights: Light (300), Regular (400), and Bold (700). Each WOFF2
 file includes the full font character coverage and is approximately 8.5 MiB.
+Only upright styles are provided. Inconsolata has no designed italic or slant
+style, and no synthetic italic is included.
 
 ## Updates
 
